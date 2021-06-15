@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!/Hola! 👋
 
 Soy Luis Balladares, Desarrollador Junior.
 
