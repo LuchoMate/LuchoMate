@@ -4,7 +4,7 @@ Soy Luis Balladares, Desarrollador Junior.
 
 #### Skills:
 - JavaScript
-- CSS/SASS
+- CSS/SASS/Tailwind
 - React
 - Python/Django
 - GSAP, barba.js, Git
