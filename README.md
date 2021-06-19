@@ -4,10 +4,11 @@ Soy Luis Balladares, Desarrollador Junior.
 
 #### Skills:
 - JavaScript
-- CSS/SASS/Tailwind
 - React
 - Python/Django
-- GSAP, barba.js, Git
+- CSS/SASS/Tailwind
+- GSAP
+- Git
 
 <!--
 **LuchoMate/LuchoMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
