@@ -6,7 +6,7 @@ Soy Luis Balladares, Desarrollador Junior.
 - JavaScript
 - React
 - Python/Django
-- CSS/SASS
+- Bootstrap/SASS
 - GSAP
 - Git
 
