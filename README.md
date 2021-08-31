@@ -1,6 +1,6 @@
 ### Hi!/Hola! 👋
 
-Soy Luis Balladares, Desarrollador Junior.
+Soy Luis Balladares, Desarrollador Junior/Web developer
 
 ![https://www.codewars.com/users/luisballadares](https://www.codewars.com/users/luisballadares/badges/large)
 
