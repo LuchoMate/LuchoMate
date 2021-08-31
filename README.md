@@ -2,6 +2,8 @@
 
 Soy Luis Balladares, Desarrollador Junior.
 
+https://www.codewars.com/users/luisballadares/badges/large
+
 #### Skills:
 - JavaScript
 - React
