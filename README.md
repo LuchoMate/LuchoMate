@@ -6,11 +6,9 @@ Soy Luis Balladares, Desarrollador Junior/Web developer
 #### Skills:
 - JavaScript
 - React
-- Vue
 - Python/Django
 - SQL/MySQL
 - Bootstrap/SASS
-- GSAP
 - Git
 
 <!--
