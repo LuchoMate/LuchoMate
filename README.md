@@ -1,15 +1,16 @@
 [![https://www.codewars.com/users/luisballadares](https://www.codewars.com/users/luisballadares/badges/large)](https://www.codewars.com/users/luisballadares)
 ### Hi!/Hola! 👋
 
-Soy Luis Balladares, Desarrollador Junior/Web developer
+Luis Balladares, Jr. Developer
 
 #### Skills:
-- JavaScript
+- JavaScript/TypeScript/Python
 - React
-- Python/Django
-- SQL/MySQL
-- Bootstrap/SASS
-- Git
+- Node/Django
+- SQL/NoSQL
+
+####---
+- 😄 I'm currently working as a Fullstack Developer at AFP Capital 😄
 
 <!--
 **LuchoMate/LuchoMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
