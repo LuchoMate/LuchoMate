@@ -9,7 +9,7 @@ Luis Balladares, Jr. Developer
 - Node/Django
 - SQL/NoSQL
 
-####---
+#### Today:
 - 😄 I'm currently working as a Fullstack Developer at AFP Capital 😄
 
 <!--
