@@ -1,4 +1,3 @@
-[![https://www.codewars.com/users/luisballadares](https://www.codewars.com/users/luisballadares/badges/large)](https://www.codewars.com/users/luisballadares)
 ### Hi!/Hola! 👋
 
 Luis Balladares, Jr. Developer
@@ -10,6 +9,8 @@ Luis Balladares, Jr. Developer
 
 #### Today:
 - 😄 I'm currently working as a Fullstack Developer at AFP Capital 😄
+
+[![https://www.codewars.com/users/luisballadares](https://www.codewars.com/users/luisballadares/badges/large)](https://www.codewars.com/users/luisballadares)
 
 <!--
 **LuchoMate/LuchoMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
